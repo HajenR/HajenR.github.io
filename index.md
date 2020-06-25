@@ -7,3 +7,8 @@ einer Tochter der Bauer Media Group, erscheint.
 Bisher sind mehr als 3000 Hefte mit rund 160.000 Seiten
 
 A website for my favourite character is currently being built here!
+
+## Character traits
+* mit einer Arkoniden verheiratet.
+* Unsterblich
+* Schnellumschalter  
