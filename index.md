@@ -14,3 +14,6 @@ A website for my favourite character is currently being built here!
 * Schnellumschalter  
 
 > kenn keit Zitat
+
+Von Gruftihh - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=29991258
+<img src="https://de.wikipedia.org/wiki/Perry_Rhodan#/media/Datei:SF_in_Deutschland_-_Leipzig_-_Urkunden_07.jpg"/>
