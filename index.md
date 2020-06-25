@@ -9,4 +9,4 @@ Bisher sind mehr als 3000 Hefte mit rund 160.000 Seiten
 A website for my favourite character is currently being built here!
 
 ## Besonderheiten
-Schnelumschalter,  unsterblich, mit einer Arkoniden verheiratet.  
+mit einer Arkoniden verheiratet.  
