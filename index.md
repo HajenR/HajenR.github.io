@@ -12,3 +12,5 @@ A website for my favourite character is currently being built here!
 * mit einer Arkoniden verheiratet.
 * Unsterblich
 * Schnellumschalter  
+
+> kenn keit Zitat
